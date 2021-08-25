@@ -4,7 +4,7 @@ This will be a BINARY classification problem.
 Aims to compare the following models :
   Fully-Connected Neural Networks and Convolutional Neural Networks (CNN)
 
-Collaborated with Savanna Guertin
+Contributors: Andrew Pascual, Savanna Guertin
   
 ## Why did you build this?
 In order to build an AI-predictive model that can detect attacking connections. This was one of my first implementations of FCNN and CNN models.
